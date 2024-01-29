@@ -1,9 +1,8 @@
-# LandRocker Token Smart Contracts
+# LandRocker Game Smart Contracts
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Twitter Follow](https://img.shields.io/twitter/follow/landrocker_io?label=Follow)](https://twitter.com/landrocker_io)
 
-![Project Logo](/images/Infiniti-logo_Black-with-opacity.png)
 
 ## Table of Contents
 
