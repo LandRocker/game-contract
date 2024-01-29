@@ -17,8 +17,8 @@
 
 ## About
 
-LandRocker is a unique Play-to-Earn game about discovery and space exploration. As a player, you'll embark on a thrilling journey through intergalactic space to launch exhilarating mining missions to uncover rare and valuable resources such as NFTs, crypto tokens, and crafting materials. With your earnings, you can craft your own NFTs and trade them on the marketplace.
-LandRocker is the only Play to Earn platform that uses blockchain technology at the core of its reward distribution and validation system. Rewards are hidden using Smart Contracts, making their location unpredictable even to the platform's developers. This provides complete trust & transparency and ensures that there is no room for speculation as to the fairness of reward distribution.
+LandRocker is a unique Play-to-Win game about discovery and space exploration. As a player, you'll embark on a thrilling journey through intergalactic space to launch exhilarating mining missions to uncover rare and valuable resources such as NFTs, crypto tokens, and crafting materials. With your earnings, you can craft your NFTs and trade them on the marketplace.
+LandRocker is the only Play to Win platform that uses blockchain technology at the core of its reward distribution and validation system. Rewards are hidden using Smart Contracts, making their location unpredictable even to the platform's developers. This provides complete trust & transparency and ensures that there is no room for speculation as to the fairness of reward distribution.
 Each Planet offers enticing rewards, with varying Fuel costs for entry. These rewards are hidden within different blockchains, ensuring integrity and unpredictability. LandRocker showcases its capability to validate rewards across any blockchain, demonstrating the technology's versatility.
 
 ## Getting Started
@@ -73,14 +73,16 @@ Follow these steps to set up and run the project locally:
 
 This repository contains the set of smart contracts that facilitate the LandRocker governance token on Polygon. These contracts contain the logic to:
 
-1. LRT token
-2. manage distribute LRT
-3. Manage Vesting the LRT token
-4. Manage pre sales of LRT token
+1. Game Contract
+2. Access
+3. External
+4. LandRocker
+5. Stake
+6. Tokens
 
 ## Documentation
 
-In-depth documentation on LandRocker and the latest deployed contracts addresses are available at [LandRocker Docs](https://whitepaper.landrocker.io/).
+In-depth documentation on LandRocker and the latest deployed contract addresses are available at [LandRocker Docs](https://whitepaper.landrocker.io/).
 
 ## Development
 
